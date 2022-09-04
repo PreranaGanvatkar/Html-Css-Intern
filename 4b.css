@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(90, 157, 215);
+    height: 100vw;
+    text-align: center;
+}
+#first{
+    
+    margin: 10%;
+    padding: 3%;
+}
+#pea{
+    border-radius: 100%;
+    width: 100px;
+    text-align: center;
+    align-items: center;
+    box-shadow: 3px 3px 3px 0px #d5d1d1;
+    /* margin: 30%; */
+}
+#one{
+    text-align: center;
+}
+div{
+    text-align: left;
+}
+#email{
+    width: 80%;
+    height: 25px;
+    margin-left: 6%;
+    /* margin-right: 4%; */
+    background-color: rgb(222, 217, 217);
+    border-radius: 25px;
+}
+#sign{
+    margin-left: 6%;
+    
+    color: white;
+    width: 80%;
+    height: 35px;
+    border-radius: 25px;
+    background-color:rgb(86, 174, 250);}
+    #do{
+        text-align: center;
+    }
+    #next{
+        background-color: white;
+        border: 0px solid white;
+        border-radius: 25px
+    }
+    #for{
+        color: cadetblue;
+        text-align: center;
+    }

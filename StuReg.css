@@ -1,0 +1,34 @@
+body{
+    border: 2px solid black;
+    
+}
+#para{
+    margin: 2%;
+    font-size: large;
+}
+#first{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#pass{
+    width: 95%;
+}
+#name{
+    width: 45%;
+}
+#lname{
+    width: 45%;
+}
+#email{
+    width: 45%;
+}
+#tel{
+    width: 45%;
+}
+#city{
+    width: 45%;
+}
+#register{
+    width: 96%;
+    margin-bottom: 5%;
+}

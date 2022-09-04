@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(rgb(239, 197, 239),rgb(78, 13, 113));
+    height: 100vw;
+    text-align: center;
+}
+#first{
+    
+    margin: 10%;
+    padding: 3%;
+}
+#pea{
+    border-radius: 100%;
+    width: 100px;
+    text-align: center;
+    align-items: center;
+    /* margin: 30%; */
+}
+#one{
+    text-align: center;
+}
+div{
+    text-align: left;
+}
+#email{
+    width: 95%;
+    height: 25px;
+    margin-left: 1%;
+}
+#sign{
+    margin-left: 1%;
+    color: white;
+    width: 95%;
+    height: 25px;
+    background-color: blue;}
+    #do{
+        text-align: center;
+    }
+    #next{
+        background-color: white;
+        border: 0px solid white;
+    }
+    #for{
+        color: cadetblue;
+    }
