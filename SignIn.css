@@ -6,6 +6,7 @@ body{
 #first{
     
     margin: 10%;
+    /* height: 300px; */
     padding: 3%;
 }
 #pea{
@@ -22,23 +23,30 @@ div{
     text-align: left;
 }
 #email{
-    width: 95%;
+    width: 80%;
     height: 25px;
-    margin-left: 1%;
+    margin-left: 6%;
 }
 #sign{
-    margin-left: 1%;
+    margin-left: 6%;
     color: white;
-    width: 95%;
-    height: 25px;
+    width: 80%;
+    height: 30px;
     background-color: blue;}
     #do{
         text-align: center;
     }
     #next{
         background-color: white;
+        height: 500px;
+        width: 700px;
+        margin-left: 15%;
         border: 0px solid white;
     }
     #for{
         color: cadetblue;
+        margin-left: 3%;
+    }
+    label{
+        margin-left: 3%;
     }
