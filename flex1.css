@@ -1,0 +1,37 @@
+.main{
+    border: 2px solid black;
+    height: 70px;
+    display: flex;
+    width: 200px;
+    /* margin: 1%; */
+    
+}
+.ex{
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content:center;
+}
+.ex1{
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content:space-around;
+}
+.ex2{
+    flex-direction: row;
+    align-items: flex-end;
+    display: flex;
+    justify-content:space-evenly;
+}
+.ex3{
+    flex-direction: row;
+    display: flex;
+    align-items: flex-end;
+    justify-content:flex-end;
+}
+.ex4{
+    flex-direction: row;
+    display: flex;
+    justify-content:flex-start;
+}

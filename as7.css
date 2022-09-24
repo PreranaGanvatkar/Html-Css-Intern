@@ -1,0 +1,131 @@
+body{
+    background-color: rgb(73, 98, 180);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.images{
+    background-color: white;
+    width: 60%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.one{
+    flex-direction: row;
+    align-items:center;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    width: 99%;
+    height: 45%;
+}
+.edit{
+    
+    width: 160px;
+    height: 220px;
+    border: 2px solid red;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(255, 221, 0),rgb(255, 132, 0));
+   
+}
+.edit1{
+    
+    width: 160px;
+    height: 220px;
+    border: 2px solid red;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(49, 41, 193),rgb(21, 15, 153));
+}
+.edit2{
+    
+    width: 160px;
+    height: 220px;
+    border: 2px solid red;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(65, 18, 112),rgb(55, 7, 95));
+}
+.edit3{
+    
+    width: 160px;
+    height: 220px;
+    border: 2px solid red;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(49, 41, 193),rgb(21, 15, 153));
+}
+.edit4{
+    
+    width: 160px;
+    height: 220px;
+    border: 2px solid red;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(196, 33, 31),rgb(153, 15, 15));
+}
+.edit5{
+    
+    width: 160px;
+    height: 220px;
+    border: 2px solid red;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(211, 55, 52),rgb(153, 15, 15));
+}
+.edit6{
+    
+    width: 160px;
+    height: 220px;
+    border: 2px solid red;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(211, 52, 179),rgb(79, 9, 117));
+}
+.con{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 200px;
+    
+    
+}
+.two{
+    
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    justify-content: space-around;
+    border: 1px solid black;
+    width: 99%;
+    height: 45%;
+}
+.main{
+    width: 40%;
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.tropy{
+    width: 40%;
+    height: 290px;
+}
+.ipl{
+    width: 40%;
+    height: 190px;
+}

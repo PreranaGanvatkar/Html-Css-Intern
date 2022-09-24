@@ -1,12 +1,14 @@
 body{
-    background-image: linear-gradient(rgb(239, 197, 239),rgb(78, 13, 113));
-    height: 100vw;
+    background-image: linear-gradient(rgb(239, 197, 239),rgb(126, 35, 174));
+    height: 700px;
     text-align: center;
 }
 #first{
     
-    margin: 10%;
+    margin-top: 3%;
+    margin-left: 19%;
     /* height: 300px; */
+    /* width: 300px; */
     padding: 3%;
 }
 #pea{
@@ -18,6 +20,7 @@ body{
 }
 #one{
     text-align: center;
+    font-size: larger;
 }
 div{
     text-align: left;
@@ -25,12 +28,13 @@ div{
 #email{
     width: 80%;
     height: 25px;
-    margin-left: 6%;
+    margin-left: 3%;
 }
 #sign{
-    margin-left: 6%;
+    margin-left: 3%;
     color: white;
     width: 80%;
+    border: none;
     height: 30px;
     background-color: blue;}
     #do{
@@ -38,10 +42,13 @@ div{
     }
     #next{
         background-color: white;
-        height: 500px;
-        width: 700px;
+        height: 600px;
+        width: 500px;
+        padding: 3%;
+
+        /* margin-top: 3%; */
         margin-left: 15%;
-        border: 0px solid white;
+        border:none;
     }
     #for{
         color: cadetblue;
